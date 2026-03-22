@@ -8,3 +8,6 @@
 [submodule "hbal"]
 	path = hbal
 	url = https://github.com/xuyiqing/hbal
+[submodule "panelView"]
+	path = panelView
+	url = https://github.com/xuyiqing/panelview
