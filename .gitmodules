@@ -8,6 +8,9 @@
 [submodule "fect"]
 	path = fect
 	url = https://github.com/xuyiqing/fect
+[submodule "gsynth"]
+	path = gsynth
+	url = https://github.com/xuyiqing/gsynth
 [submodule "hbal"]
 	path = hbal
 	url = https://github.com/xuyiqing/hbal
