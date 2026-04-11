@@ -14,6 +14,9 @@
 [submodule "hbal"]
 	path = hbal
 	url = https://github.com/xuyiqing/hbal
+[submodule "interflex"]
+	path = interflex
+	url = https://github.com/xuyiqing/interflex
 [submodule "panelView"]
 	path = panelView
 	url = https://github.com/xuyiqing/panelview
